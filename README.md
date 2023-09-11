@@ -1,5 +1,3 @@
-# Assembling-the-system
-
 # ASSEMBLING-THE-SYSTEM
 
 # AIM:
